@@ -1,0 +1,23 @@
+---
+title: "Collaborative website"
+author: "Gemma Del Rossi"
+date: "3/2/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Lab 3 Collaborative Website 
+
+Gemma Del Rossi: https://github.com/gemdelrossi
+
+Luis Perez: https://github.com/luisefeperez
+
+
+![A picture of a town in Vermont](https://www.gannett-cdn.com/presto/2018/09/13/USAT/8648e186-b7a9-40c4-be68-7372ffef8299-GettyImages-623502114_in_town.jpg?crop=3560,2668,x159,y0&quality=50&width=640)
+
+
+
+
