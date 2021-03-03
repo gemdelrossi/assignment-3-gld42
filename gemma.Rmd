@@ -12,3 +12,4 @@ Hello!! Some things about me:
 * My **very** nerdy hobby is playing minecraft (with said twin sister)
 * I have a cat named Lucy and she hates everyone but me
 
+![This is the princess](~/github/assignment-3-gld42/Lucy.jpg)
